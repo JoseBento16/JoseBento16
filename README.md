@@ -26,6 +26,6 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoseBento16&show_icons=true&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=JoseBento16&theme=tokyonight&hide_border=true" />
 </p>
 ---
