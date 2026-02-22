@@ -2,7 +2,7 @@
 ---
 ## 🛠️ Sobre mim
 
-💻 Java, Python, HTML, CSS e JavaScript em prática  
+💻 Python, HTML, CSS e JavaScript em prática  
 🧠 Base sólida em lógica e estrutura  
 📐 Organização e documentação técnica  
 🔐 Atualmente focado em Cibersegurança  
