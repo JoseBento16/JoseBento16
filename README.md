@@ -21,11 +21,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
 </p>
-
----
-## 📊 Estatísticas
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=JoseBento16&theme=tokyonight&hide_border=true" />
-</p>
----
